@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-prometheus",
+  "name": "nest-prometheus",
   "version": "1.0.0",
   "description": "NestJS module for Prometheus",
   "author": "Mostafa Gholami <mostafagholamidev@gmail.com>",

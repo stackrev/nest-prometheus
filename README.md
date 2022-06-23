@@ -6,10 +6,10 @@
 
 ```bash
 # npm
-$ npm install --save nestjs-prometheus
+$ npm install --save nest-prometheus
 
 # yarn
-$ yarn add nestjs-prometheus
+$ yarn add nest-prometheus
 ```
 
 ### Usage
